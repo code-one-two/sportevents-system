@@ -1,0 +1,3 @@
+# Copy this file to application-local.yml. The copied file is ignored by Git.
+deepseek:
+  api-key: your-deepseek-api-key
